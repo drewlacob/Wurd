@@ -1,0 +1,13 @@
+Short text
+Containing few lines
+And no line breaks
+Or carriage characters
+test of the saving capabiities
+of my terrible text editor
+blah blah blah
+do the new lines work
+
+bat rack
+
+sjsjsjsjsj 
+or is there double space
